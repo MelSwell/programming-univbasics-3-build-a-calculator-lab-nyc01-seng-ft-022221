@@ -22,4 +22,4 @@ def square_root(num)
   puts num ** 2
 end
 
-square_root(81)
+square_root(9)
