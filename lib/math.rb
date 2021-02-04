@@ -21,3 +21,5 @@ end
 def square_root(num)
   num ** 2
 end
+
+square_root(81)
